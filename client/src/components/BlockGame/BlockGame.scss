@@ -3,6 +3,7 @@
   display: flex;
   place-content: center;
   place-items: center;
+  flex-wrap: wrap;
   canvas {
     border: 1px solid black;
   }
