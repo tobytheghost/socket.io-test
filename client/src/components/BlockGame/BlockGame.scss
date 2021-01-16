@@ -1,0 +1,9 @@
+.game {
+  height: 100vh;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  canvas {
+    border: 1px solid black;
+  }
+}
